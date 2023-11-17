@@ -57,3 +57,12 @@ console.log(saludarObj);
 
 
 //inicie a usar git
+
+//***********FUNCIONES***********/
+function square(number) {
+    return number * number;
+}
+
+console.log(square(2));
+
+
